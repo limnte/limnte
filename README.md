@@ -7,7 +7,6 @@
 <div align="center">📷 A full stack developer and passionate gamedev
 
 </div>  
-  
 
 <br/>  
 
@@ -15,9 +14,10 @@
 
 <br/>  
 
-## <div align="center">💻Tech Stack</div>  
-  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=limnte&theme=radical&hide_border=true&include_all_commits=true&count_private=true" align="center" /></div>  
 
+<div align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=limnte&theme=radical&hide_border=true" align="center" /></div>
+<br />
 <div align="center">  
 <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -30,30 +30,5 @@
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
 </div>  
 
-<br/>  
-
-## <div align="center">🌐Connect With Me</div>  
-  
-
-<div align="center">
-<a href="https://instagram.com/tp.gabee" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://discordapp.com/users/limnte.kms" target="_blank">
-<img src=https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discor&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
-
-<br/>  
-
-## <div align="center">Github Stats</div>  
-  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=limnte&theme=radical&hide_border=true&include_all_commits=true&count_private=true" align="center" /></div>  
-
-<div align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=limnte&theme=radical&hide_border=true" align="center" /></div>
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">github profilinator</a></div>
