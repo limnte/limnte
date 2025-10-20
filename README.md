@@ -1,4 +1,4 @@
-# <div align= "center">≽^•⩊•^≼ Hey, I'm Gabe</div>
+# <div align= "center"> Hey, I'm Gabe</div>
 
 <div align="center">🔭 I'm a software engineer student
 </div>  
